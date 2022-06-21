@@ -99,7 +99,8 @@ Awesome githuber
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
-<!-- ![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/assets/github-contribution-grid-snake.svg) -->
+![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/assets/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg) -->
 
 <!-- https://github.com/csxuwu/csxuwu/edit/main/README.md -->
 <!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
