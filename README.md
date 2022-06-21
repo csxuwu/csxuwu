@@ -1,22 +1,6 @@
 
 
-<!--
-**younger-1/younger-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=younger-1&repo=topological-value-in-graph)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-
-Awesome githuber
+<!-- Awesome githuber
 - https://github.com/Youngermaster/Youngermaster
 - https://github.com/hylerrix/hylerrix
 - https://github.com/Xunzhuo/Xunzhuo
@@ -36,8 +20,8 @@ Awesome githuber
 - https://github.com/watzon/watzon
 - https://github.com/michaelb/michaelb
 - https://github.com/lambdalisue/lambdalisue
-- https://github.com/spywhere/spywhere
--->
+- https://github.com/spywhere/spywhere -->
+
 
 <!-- 标题 -->
 <h1 align="center">
@@ -45,7 +29,7 @@ Awesome githuber
 </h1>
 
 
-<!-- 链接 -->
+<!-- 个人常用链接 -->
 <p align="center">
 <!--     <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
     •
@@ -99,17 +83,17 @@ Awesome githuber
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
-![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/output/github-contribution-grid-snake.svg)
 <!-- ![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg) -->
-
+<!-- ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg) -->
 <!-- https://github.com/csxuwu/csxuwu/edit/main/README.md -->
 <!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
 
 
 ## 🌠 Coding Time
 > the projects I'm working on
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=csxuwu&theme=calm&show_icons=true" />
+<div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=csxuwu&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxuwu&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
@@ -117,58 +101,12 @@ Awesome githuber
 <img src="https://github-profile-trophy.vercel.app/?username=csxuwu&column=8"/> -->
 
 ## My Visitors
-![Visitor Count](https://profile-counter.glitch.me/csxuwu/count.svg)  
-<!-- <div align="center">
-  <img src="//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e" width="320" height="320">
-</div> -->
-<!-- <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> -->
-<a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a>
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'></script> -->
-<!-- 
-[![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
+<!-- 访客信息 -->    
+<div align="center">
+  <img src = https://profile-counter.glitch.me/csxuwu/count.svg>           <!-- 访客数量 -->
+</div> 
 
-<!-- ## 😐 But I'm still wondering...
-
-```rust
-struct AboutMe;
-
-impl AboutMe {
-    const READING_BOOK: &'static str = "The book of life";
-    const CURRENT_DEGREE: &'static str = "Master";
-    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
-}
-
-trait OpenSource {
-    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
-}
-
-impl OpenSource for AboutMe {}
-``` -->
-
-<!-- ![](https://raw.githubusercontent.com/csxuwu/csxuwu/output/github-contribution-grid-snake.svg) -->
+<a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a>                                      <!-- 访客地图，无法显示 -->
 
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxuwu&layout=compact)](https://github.com/csxuwu/github-readme-stats)  
----
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=csxuwu&show_icons=true&theme=tokyonight)   -->
-
-
-
-<!-- **csxuwu/csxuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
