@@ -39,24 +39,13 @@ Awesome githuber
 - https://github.com/spywhere/spywhere
 -->
 
+<!-- 标题 -->
 <h1 align="center">
   Hey, I'm Xu Wu!
 </h1>
 
-<!-- 
-<p align="center">
-  <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://t.me/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p> 
--->
 
-<!-- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
--->
-
+<!-- 链接 -->
 <p align="center">
 <!--     <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
     •
@@ -69,6 +58,7 @@ Awesome githuber
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
 
+<!-- 各类图标 -->
 <p align="center">
 <!--     <a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/> </a>
     <a href="https://golang.org/"> <img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </a>
@@ -95,12 +85,16 @@ Awesome githuber
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p>
 
-
+<!-- 图片 -->
 <div align="center">
 <!--   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="120" height="120">
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
 
 
 
