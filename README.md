@@ -58,11 +58,11 @@ Awesome githuber
 -->
 
 <p align="center">
-    <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
+<!--     <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
     •
     <b><a href="https://github.com/golang/go">Gopher</a></b>
     •
-    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b> -->
     •
     <b><a href="https://www.yuque.com/csxuwu/">Blogs</a></b>
     <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
