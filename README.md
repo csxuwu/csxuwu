@@ -89,8 +89,6 @@ Awesome githuber
 </p>
 
 
-
-
 <div align="center">
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
@@ -99,7 +97,8 @@ Awesome githuber
 
 
 
-## 🌠[Coding Time](https://wakatime.com/@csxuwu)
+<!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
+## 🌠 Coding Time
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=
@@ -117,6 +116,9 @@ Awesome githuber
 <!-- ## 🏆 Github Profile Trophy  github 奖杯
 <img src="https://github-profile-trophy.vercel.app/?username=csxuwu&column=8"/> -->
 
+## My Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/csxuwu/count.svg)
 
 <!-- 
 [![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -150,8 +152,7 @@ impl OpenSource for AboutMe {}
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxuwu&layout=compact)](https://github.com/csxuwu/github-readme-stats)  
 ---
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=csxuwu&show_icons=true&theme=tokyonight)   -->
----
-![Visitor Count](https://profile-counter.glitch.me/csxuwu/count.svg)
+
 
 <!--
 **csxuwu/csxuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
