@@ -75,6 +75,7 @@ Awesome githuber
   <a href="https://github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
 <!--   <a href="https://gitlab.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a> -->
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="40" height="40"> -->
 <!--     <a href="https://www.ruby-lang.org/"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /> </a> -->
 </p>
 
@@ -85,15 +86,15 @@ Awesome githuber
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p>
 
-<!-- 图片 -->
-<div align="center">
+<!-- github 猫图片 -->
+<!-- <div align="center">
 <!--   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"> -->
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="120" height="120">
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="120" height="120"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
-</div>
+<!-- </div> --> 
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="320" height="200"/></div>
 <br>
 
 
