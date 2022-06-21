@@ -94,8 +94,8 @@ Awesome githuber
 <!-- </div> --> 
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="320" height="200"/></div>
-<br>
+<!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="320" height="200"/></div>
+<br> -->
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
@@ -104,16 +104,10 @@ Awesome githuber
 
 <!-- https://github.com/csxuwu/csxuwu/edit/main/README.md -->
 <!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
+
+
 ## 🌠 Coding Time
 > the projects I'm working on
-
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=
-
-
-
--1&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
-
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=csxuwu&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxuwu&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
@@ -123,13 +117,12 @@ Awesome githuber
 <img src="https://github-profile-trophy.vercel.app/?username=csxuwu&column=8"/> -->
 
 ## My Visitors
-
 ![Visitor Count](https://profile-counter.glitch.me/csxuwu/count.svg)  
 <!-- <div align="center">
   <img src="//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e" width="320" height="320">
 </div> -->
 <!-- <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> -->
-<div><a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a></div>
+<a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'></script> -->
 <!-- 
 [![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
