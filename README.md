@@ -130,7 +130,7 @@ Awesome githuber
   <img src="//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e" width="320" height="320">
 </div> -->
 <!-- <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> -->
-<a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a>
+<div><a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a></div>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'></script> -->
 <!-- 
 [![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
