@@ -81,14 +81,6 @@
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="320" height="200"/></div>
 <br> -->
 
-<!-- 贪吃蛇代码贡献图 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
-![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/output/github-contribution-grid-snake.svg)
-<!-- ![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg) -->
-<!-- ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg) -->
-<!-- https://github.com/csxuwu/csxuwu/edit/main/README.md -->
-<!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
-
 
 ## 🌠 Coding Time
 > the projects I'm working on
@@ -108,5 +100,8 @@
 
 <a href='https://clustrmaps.com/site/1bp14'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=53698f&w=318&t=tt&d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE&co=e4eaf5&ct=523e3e'/></a>                                      <!-- 访客地图，无法显示 -->
 
-
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center">
+  <img src = https://raw.githubusercontent.com/csxuwu/csxuwu/output/github-contribution-grid-snake.svg >
+</div> 
 
