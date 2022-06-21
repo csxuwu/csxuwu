@@ -97,8 +97,11 @@ Awesome githuber
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" width="320" height="200"/></div>
 <br>
 
+<!-- 贪吃蛇代码贡献图 -->
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
+![](https://raw.githubusercontent.com/csxuwu/csxuwu/main/assets/github-contribution-grid-snake.svg)
 
-
+<!-- https://github.com/csxuwu/csxuwu/edit/main/README.md -->
 <!-- ## 🌠[Coding Time](https://wakatime.com/@csxuwu) -->
 ## 🌠 Coding Time
 > the projects I'm working on
