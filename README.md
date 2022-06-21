@@ -78,14 +78,16 @@ Awesome githuber
 <!--     <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> </a> -->
 <!--     <a href="https://www.haskell.org/">  <img src="https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /> </a> -->
 <!--     <a href="https://crystal-lang.org/"> <img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"/> </a> -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 <!--     <a href="https://www.ruby-lang.org/"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /> </a> -->
 </p>
 
 <p align="center">
-    <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
-    <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a>
+<!--     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a>
+    <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> </a> -->
     <a href=""> <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/> </a>
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p>
