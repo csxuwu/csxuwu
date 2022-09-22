@@ -101,9 +101,9 @@
 <!-- ## 🏆 Github Profile Trophy  github 奖杯
 <img src="https://github-profile-trophy.vercel.app/?username=csxuwu&column=8"/> -->
 
-## > My Visitors
+<!-- ## > My Visitors -->
 <!-- 访客信息 -->    
-<div align="center">
+<!-- <div align="center">
   <img src = https://profile-counter.glitch.me/csxuwu/count.svg>           <!-- 访客数量 -->
 </div> 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=99sjBa_0_KEbHKzPkQb-YXAY3ADddzx_-UoPDoJkGGE"></script> -->
