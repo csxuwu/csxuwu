@@ -111,8 +111,10 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
+<!-- 
 ## > My GitHub Contributions
 <div align="center">
   <img src = https://raw.githubusercontent.com/csxuwu/csxuwu/output/github-contribution-grid-snake.svg >
 </div> 
+-->
 
